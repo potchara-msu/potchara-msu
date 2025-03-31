@@ -1,4 +1,8 @@
-Hi 👋 My name is Potchara Pruksasri ===================================  A Lecturer and Full Stack Developer -----------------------------------  I am a lecturer at Computer Science Department, Mahasarakham University, Thailand. I teach development courses related to software development. I am also a software developer.  * 🌍  I'm based in Mahasarakham, Thailand * ✉️  You can contact me at [potchara.p@msu.ac.th](mailto:potchara.p@msu.ac.th)
+Hi 👋 My name is Potchara Pruksasri 
+===================================  
+A Lecturer and Full Stack Developer 
+-----------------------------------  
+I am a lecturer at Computer Science Department, Mahasarakham University, Thailand. I teach development courses related to software development. I am also a software developer.  * 🌍  I'm based in Mahasarakham, Thailand * ✉️  You can contact me at [potchara.p@msu.ac.th](mailto:potchara.p@msu.ac.th)
 
 <a href="https://www.github.com/potchara-msu" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/potchara-msu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
